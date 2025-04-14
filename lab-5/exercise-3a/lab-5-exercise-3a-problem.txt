@@ -1,0 +1,1 @@
+Natura problemu polega na efektywnym zarządzaniu i organizacji asortymentu pojazdów w salonie samochodowym. Salon musi śledzić, jakie samochody posiada na stanie, co wymaga powiązania konkretnych egzemplarzy samochodów z danym salonem. Jednocześnie, w szerszym kontekście, samochody są szczególnym rodzajem pojazdów.

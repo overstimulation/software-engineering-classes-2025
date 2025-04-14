@@ -1,0 +1,1 @@
+Ten system modeluje strukturę budynków, w których znajdują się mieszkania. Każde mieszkanie jest traktowane jako całość, która składa się z jednego, konkretnego pokoju, co podkreśla silne powiązanie między mieszkaniem a jego składowym pokojem. System ten może być używany do organizacji i zarządzania informacjami o nieruchomościach.

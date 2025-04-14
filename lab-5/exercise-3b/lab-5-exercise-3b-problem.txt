@@ -1,0 +1,1 @@
+Ten system służy do zarządzania procesem składania i realizacji zamówień. Pozwala na rejestrowanie zamówień, dodawanie do nich wielu produktów oraz śledzenie cen poszczególnych produktów, co umożliwia obliczenie wartości całego zamówienia.
